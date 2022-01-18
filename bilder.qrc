@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/bilder">
+        <file>Memoryspiel/apfel.bmp</file>
+        <file>Memoryspiel/aufgedeckt.bmp</file>
+        <file>Memoryspiel/back.bmp</file>
+        <file>Memoryspiel/birne.bmp</file>
+        <file>Memoryspiel/blume.bmp</file>
+        <file>Memoryspiel/blume2.bmp</file>
+        <file>Memoryspiel/ente.bmp</file>
+        <file>Memoryspiel/fisch.bmp</file>
+        <file>Memoryspiel/fuchs.bmp</file>
+        <file>Memoryspiel/igel.bmp</file>
+        <file>Memoryspiel/kaenguruh.bmp</file>
+        <file>Memoryspiel/katze.bmp</file>
+        <file>Memoryspiel/kuh.bmp</file>
+        <file>Memoryspiel/main.cpp</file>
+        <file>Memoryspiel/maus1.bmp</file>
+        <file>Memoryspiel/maus2.bmp</file>
+        <file>Memoryspiel/maus3.bmp</file>
+        <file>Memoryspiel/maus4.bmp</file>
+        <file>Memoryspiel/melone.bmp</file>
+        <file>Memoryspiel/memorykarte.cpp</file>
+        <file>Memoryspiel/memorykarte.h</file>
+        <file>Memoryspiel/memoryressourcen.qrc</file>
+        <file>Memoryspiel/memoryspiel.cpp</file>
+        <file>Memoryspiel/memoryspiel.h</file>
+        <file>Memoryspiel/Memoryspiel.pro</file>
+        <file>Memoryspiel/pilz.bmp</file>
+        <file>Memoryspiel/ronny.bmp</file>
+        <file>Memoryspiel/schmetterling.bmp</file>
+        <file>Memoryspiel/sonne.bmp</file>
+        <file>Memoryspiel/wolke.bmp</file>
+    </qresource>
+</RCC>
